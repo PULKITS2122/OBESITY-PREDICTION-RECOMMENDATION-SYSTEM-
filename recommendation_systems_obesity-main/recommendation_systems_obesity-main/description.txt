@@ -1,0 +1,31 @@
+Description of Dataset:
+Gender: Description of Gender
+Age: Description of Age
+family_history_with_overweight: Description of family_history_with_overweight
+FAVC: Description of FAVC
+FCVC: Description of FCVC
+NCP: Description of NCP
+CAEC: Description of CAEC
+SMOKE: Description of SMOKE
+CH2O: Description of CH2O
+SCC: Description of SCC
+FAF: Description of FAF
+TUE: Description of TUE
+CALC: Description of CALC
+Automobile: Description of Automobile
+Bike: Description of Bike
+Motorbike: Description of Motorbike
+Public_Transportation: Description of Public_Transportation
+Walking: Description of Walking
+NObeyesdad: Description of NObeyesdad
+
+variables ignored:
+SCC
+FAF
+TUE
+CALC
+Automobile
+Bike
+Motorbike
+Public_Transportation
+Walking
