@@ -9,7 +9,7 @@ _Members:_
 
 **Project Title: Chronic Kidney Disease Prediction System**
 
-GIT LINK: https://mygit.th-deg.de/as23727/recommendation_system
+GIT LINK: https://mygit.th-deg.de/assistance-systems4/assistance_system_obesity
 
 
 # Project Description
